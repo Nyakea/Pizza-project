@@ -13,3 +13,11 @@ Authored by Shalyn Nyakea
 HTML
 CSS
 JavaScript/ jQuery
+
+## link to live site on GitHub Pages
+Live link: 
+
+## copyright and license information
+MIT License
+
+Copyright (c) [2022] [Shalyn Nyakea]
