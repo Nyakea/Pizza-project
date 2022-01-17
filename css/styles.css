@@ -1,0 +1,11 @@
+.introduction{
+    background-color: black;
+}
+#name{
+    color: white;
+    font-family: 'Bebas Neue', cursive;}
+#tag-line{
+    color:orange;
+    font-style: italic;
+    font-family: 'Caveat', cursive;
+}
